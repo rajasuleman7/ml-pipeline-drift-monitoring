@@ -1,0 +1,9 @@
+models/
+data/drift_report.json
+data/evidently_report.html
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+.DS_Store
